@@ -1,0 +1,62 @@
+[
+    {
+        "breed": "Balinese",
+        "image": "https://www.petfinder.com/images/breeds/cat/1040.jpg"
+    },
+    {
+        "breed": "American Bobtail Cat",
+        "image": "https://www.petfinder.com/images/breeds/cat/5010.jpg"
+    },
+    {
+        "breed": "Bengal Cat",
+        "image": "https://www.petfinder.com/images/breeds/cat/1050.jpg"
+    },
+    {
+        "breed": "Korat Cat",
+        "image": "https://www.petfinder.com/images/breeds/cat/3020.jpg"
+    },
+    {
+        "breed": "Maine Coon",
+        "image": "https://www.petfinder.com/images/breeds/cat/3030.jpg"
+    },
+    {
+        "breed": "Nebelung",
+        "image": "https://www.petfinder.com/images/breeds/cat/5040.jpg"
+    },
+    {
+        "breed": "Ocicat",
+        "image": "https://www.petfinder.com/images/breeds/cat/3060.jpg"
+    },
+    {
+        "breed": "Siamese",
+        "image": "https://www.petfinder.com/images/breeds/cat/4020.jpg"
+    },
+    {
+        "breed": "Somali",
+        "image": "https://www.petfinder.com/images/breeds/cat/4060.jpg"
+    },
+    {
+        "breed": "Tonkinese",
+        "image": "https://www.petfinder.com/images/breeds/cat/4080.jpg"
+    },
+    {
+        "breed": "Turkish Angora",
+        "image": "https://www.petfinder.com/images/breeds/cat/4090.jpg"
+    },
+    {
+        "breed": "Chartreux",
+        "image": "https://www.petfinder.com/images/breeds/cat/2010.jpg"
+    },
+    {
+        "breed": "Egyptian Mau",
+        "image": "https://www.petfinder.com/images/breeds/cat/2060.jpg"
+    },
+    {
+        "breed": "Exotic Shorthair",
+        "image": "https://www.petfinder.com/images/breeds/cat/2070.jpg"
+    },
+    {
+        "breed": "Himalayan",
+        "image": "https://www.petfinder.com/images/breeds/cat/2090.jpg"
+    }
+]
